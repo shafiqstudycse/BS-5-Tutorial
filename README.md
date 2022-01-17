@@ -4,7 +4,6 @@
 - Prerequisites
 - BS5 Document Structure
 - BS5 Container & Grid system
-- BS5 Columns
 ## Lecture-02
 - BS5 Breakpoints
 - BS5 Grids for multiple devices
