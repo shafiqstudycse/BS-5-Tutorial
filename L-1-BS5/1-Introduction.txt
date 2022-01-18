@@ -13,7 +13,7 @@ Why:
 	=> No Repeatation in Code.
 	
 History:
-	=> Bootstrap original Name is Twitter BluePring
+	=> Bootstrap original Name is Twitter BluePrint
 	=> Develop by mark otto and jaccob
 	=> Bootstrap First release as open source in 19 august, 2011
 	=> Bootstrap latest version is 5.1v

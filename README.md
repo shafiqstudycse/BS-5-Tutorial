@@ -9,13 +9,11 @@
 - BS5 Grids for multiple devices
 - BS5 Alignment of Column
 ## Lecture-03
-- BS5 Layout
-## Lecture-04
 - BS5 Typography
 - BS5 Table
 - BS5 Images
 - BS5 Forms
-## Lecture-05
+## Lecture-04
 - BS5 Accordian
 - BS5 Alerts
 - BS5 Button & Button Group
@@ -23,5 +21,5 @@
 - BS5 Modal
 - BS5 Navbar
 - BS5 Offcanvas
-## Lecture-06
+## Lecture-05
 - BS5 Full Project
